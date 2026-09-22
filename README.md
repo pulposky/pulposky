@@ -10,17 +10,23 @@
 
 ## 🙋 Sobre mí
 
+<div align="center">
+
 Soy **Alejandro**, desarrollador web localizado en **Colombia/Villavicencio** con experiencia construyendo proyectos fullstack con el ecosistema **Node.js**. Me apasiona aprender cosas nuevas rápidamente y siempre estoy buscando mejorar mis habilidades.
 
 Mi camino me ha llevado desde **HTML, CSS y JavaScript** hasta **Node.js + MySQL**, y hoy sigo expandiéndome en dos direcciones: consolidarme como desarrollador **fullstack** con **React + Vite** en el frontend y **Express 5 + Knex** en el backend, y explorar aplicaciones de escritorio con **Flet (Python)**.
 
 Me defino como una persona **colaborativa, responsable y honesta**, que disfruta trabajar en equipo y aportar soluciones concretas a los problemas.
 
+</div>
+
 ---
 
 ## 🛠️ Tecnologías y herramientas
 
 ### Frontend
+<div align="center">
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
@@ -29,7 +35,11 @@ Me defino como una persona **colaborativa, responsable y honesta**, que disfruta
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+</div>
+
 ### Backend
+<div align="center">
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -40,16 +50,26 @@ Me defino como una persona **colaborativa, responsable y honesta**, que disfruta
 ![CORS](https://img.shields.io/badge/CORS-2ea44f?style=for-the-badge&logo=swagger&logoColor=white)
 ![dotenv](https://img.shields.io/badge/dotenv-ECD53F?style=for-the-badge&logo=.env&logoColor=black)
 
+</div>
+
 ### Escritorio — en aprendizaje
+<div align="center">
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flet](https://img.shields.io/badge/Flet-000000?style=for-the-badge&logo=flutter&logoColor=white)
 
+</div>
+
 ### Herramientas
+<div align="center">
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+</div>
 
 ---
 
@@ -77,20 +97,28 @@ Plataforma de comercio web en **JavaScript** (Node.js + Express + EJS + MySQL): 
 
 ## 🌱 Lo que estoy aprendiendo ahora
 
+<div align="center">
+
 - **Frontend:** React 19, Vite, React Router, Axios, CSS Modules
 - **Backend:** Express 5, Knex (query builder), MySQL, JWT, Bcrypt
 - **Migración:** JavaScript → **TypeScript** en frontend (`.tsx`) y backend (`.ts`)
 - **Arquitectura:** Atomic Design (átomos, moléculas, organismos, templates)
 - **Escritorio:** Python + Flet
 
+</div>
+
 ---
 
 ## 🧠 Soft skills
+
+<div align="center">
 
 - 🤝 **Colaborativo** — Trabajo bien en equipo y me adapto a diferentes dinámicas de trabajo
 - ✅ **Responsable** — Cumplo con los compromisos y plazos establecidos
 - 🤲 **Honesto** — Comunicación clara y transparente en todo momento
 - ⚡ **Aprendizaje rápido** — Capacidad de asimilar nuevas tecnologías y conceptos con agilidad
+
+</div>
 
 ---
 
