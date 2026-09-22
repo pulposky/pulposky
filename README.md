@@ -4,9 +4,6 @@
 
 ### Desarrollador Web en crecimiento 🚀
 
-![GitHub followers](https://img.shields.io/github/followers/pulposky?style=social&logo=github)
-![GitHub repos](https://img.shields.io/badge/Repos%20p%C3%BAblicos-5-181717?style=for-the-badge&logo=github&logoColor=white)
-
 </div>
 
 ---
