@@ -2,7 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:36bcf7&height=220&section=header&text=Hola,%20soy%20Alejandro%20🐙&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20Web%20en%20crecimiento%20🚀&descAlignY=60&descAlign=50" width="100%" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Frontend:+React,+Vite,+TypeScript;Backend:+Node.js,+Express,+MySQL;Escritorio:+Python+y+Flet;Colombia+·+Villavicencio" alt="typing" />
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&multiline=true&width=800&height=90&lines=Desarrollador+Fullstack;Frontend:+React,+Vite,+TypeScript;Backend:+Node.js,+Express,+MySQL;Escritorio:+Python+y+Flet" alt="typing animado" />
 
 <br/>
 
@@ -10,7 +12,7 @@
 
 </div>
 
----
+<br/>
 
 ## 🙋 Sobre mí
 
@@ -20,7 +22,9 @@ Mi camino me ha llevado desde **HTML, CSS y JavaScript** hasta **Node.js + MySQL
 
 Me defino como una persona **colaborativa, responsable y honesta**, que disfruta trabajar en equipo y aportar soluciones concretas a los problemas.
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" width="100%" alt="divider" />
+</div>
 
 ## 🛠️ Tecnologías
 
@@ -30,7 +34,9 @@ Me defino como una persona **colaborativa, responsable y honesta**, que disfruta
 
 </div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" width="100%" alt="divider" />
+</div>
 
 ## 📊 Estadísticas
 
@@ -41,7 +47,9 @@ Me defino como una persona **colaborativa, responsable y honesta**, que disfruta
 
 </div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" width="100%" alt="divider" />
+</div>
 
 ## 🐍 Mi grilla de contribuciones
 
@@ -54,7 +62,9 @@ Me defino como una persona **colaborativa, responsable y honesta**, que disfruta
 
 </div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" width="100%" alt="divider" />
+</div>
 
 ## 📂 Proyectos destacados
 
@@ -73,7 +83,9 @@ Sistema POS en **Python con Flet** para gestión de ventas, remisiones, clientes
 
 Plataforma de comercio web en **JavaScript** (Node.js + Express + EJS + MySQL): catálogo público con búsqueda y filtros, sistema de apartados con notificaciones, dashboard de estadísticas y registro de visitas. Se integra con el Sistema POS vía base de datos compartida.
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" width="100%" alt="divider" />
+</div>
 
 ## 🌱 Lo que estoy aprendiendo ahora
 
@@ -83,7 +95,9 @@ Plataforma de comercio web en **JavaScript** (Node.js + Express + EJS + MySQL): 
 - **Arquitectura:** Atomic Design (átomos, moléculas, organismos, templates)
 - **Escritorio:** Python + Flet
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" width="100%" alt="divider" />
+</div>
 
 ## 🧠 Soft skills
 
@@ -92,27 +106,27 @@ Plataforma de comercio web en **JavaScript** (Node.js + Express + EJS + MySQL): 
 - 🤲 **Honesto**: Comunicación clara y transparente en todo momento
 - ⚡ **Aprendizaje rápido**: Capacidad de asimilar nuevas tecnologías y conceptos con agilidad
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" width="100%" alt="divider" />
+</div>
 
 ## 📬 Contáctame
 
 <div align="center">
 
-[
+<a href="mailto:alejogarcia0324@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/pulposky">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
-![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<br/><br/>
 
-](mailto:alejogarcia0324@gmail.com)
-[
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-](https://github.com/pulposky)
+⭐ Si alguno de mis proyectos te es útil, ¡no dudes en dejar una estrella!
 
 <br/>
 
-*"El mejor código que puedo escribir hoy es mejor que el que escribí ayer."*
-
-⭐ Si alguno de mis proyectos te es útil, ¡no dudes en dejar una estrella!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36bcf7,100:0f2027&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
