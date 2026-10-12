@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=200&section=header&text=Alejandro&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Desarrollador%20Web&descAlignY=62&descAlign=50" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=200&section=header&text=Alejandro&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Developer+Fullstack" alt="Alejandro" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=FFFFFF&background=000000&center=true&vCenter=true&multiline=true&width=800&height=120&lines=%24+whoami;Alejandro,+desarrollador+web+fullstack;%24+cat+stack.txt;React,+Node.js,+MySQL,+Flet;%24+status;Construyendo+proyectos+de+punta+a+punta" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=FFFFFF&background=000000&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Desarrollador+Fullstack;Node.js+%7C+Python;MySQL+%7C+APIs+%7C+Business+Logic" alt="typing" />
 
 <br/>
 
@@ -18,13 +18,24 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=2&section=header" width="100%" alt="line" />
 </div>
 
-## 🙋 Sobre mí
+## 👋 Hola — Soy Alejandro
 
-Soy **Alejandro**, desarrollador web de **Villavicencio, Colombia**, con experiencia construyendo proyectos fullstack con el ecosistema **Node.js**. Me apasiona aprender cosas nuevas rápidamente y siempre estoy buscando mejorar mis habilidades.
+Desarrollador Fullstack con enfoque en soluciones reales para negocios y procesos digitales. Construyo aplicaciones web y sistemas de gestión con Node.js, Python y MySQL, con especial interés en proyectos que conectan tecnología con operación diaria.
 
-Mi camino me ha llevado desde **HTML, CSS y JavaScript** hasta **Node.js + MySQL**, y hoy sigo expandiéndome en dos direcciones: consolidarme como desarrollador **fullstack** con **React + Vite** en el frontend y **Express 5 + Knex** en el backend, y explorar aplicaciones de escritorio con **Flet (Python)**.
+Me gusta pasar de la idea a un producto funcional: backend robusto, interfaces claras y lógica de negocio bien estructurada.
 
-Me defino como una persona **colaborativa, responsable y honesta**, que disfruta trabajar en equipo y aportar soluciones concretas a los problemas.
+---
+
+## 🚀 Proyectos destacados
+
+- 🛒 [Marketplace](https://github.com/pulposky/Marketplace)
+  Plataforma web para reservas/apartados, catálogo, ofertas y panel administrativo. Ideal para comercios con ventas online y sincronización con punto de venta.
+
+- 🖥️ [Sistema_POS](https://github.com/pulposky/Sistema_POS)
+  Sistema de punto de venta desarrollado en Python con Flet, pensado para gestión de ventas, inventario, remisiones y facturación.
+
+- ⚙️ [Apirest](https://github.com/pulposky/Apirest)
+  Backend y gestión de productos/usuarios con autenticación, roles y CRUD. Base sólida para aplicaciones web con Node.js.
 
 ---
 
@@ -45,7 +56,7 @@ Me defino como una persona **colaborativa, responsable y honesta**, que disfruta
 
 <br/><br/>
 
-<img src="assets/radar.svg" width="460" alt="Radar de habilidades" />
+<img src="https://raw.githubusercontent.com/pulposky/pulposky/main/assets/radar.svg" width="460" alt="Radar de habilidades" />
 
 </div>
 
@@ -55,60 +66,28 @@ Me defino como una persona **colaborativa, responsable y honesta**, que disfruta
 
 <div align="center">
 
-<img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pulposky&show_icons=true&hide_border=false&include_all_commits=true&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&border_color=333333&border_radius=12" />
+<img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pulposky&show_icons=true&hide_border=false&include_all_commits=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&rank_icon=github&theme=dark" />
 
 </div>
 
 ---
 
-## 🐍 Grilla de contribuciones
+## 🌱 Actualmente aprendiendo
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg" />
-  <img alt="snake" src="dist/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
+- Frontend moderno: React 19, Vite, React Router, Axios
+- Backend: Express 5, Knex, MySQL, JWT, bcrypt
+- TypeScript: migración de JavaScript a TS
+- Python + desktop apps con Flet
+- Arquitectura y diseño de soluciones escalables
 
 ---
 
-## 📂 Proyectos destacados
+## 🧠 En qué me enfoco
 
-### ⚙️ [fullstack-learning](https://github.com/pulposky/fullstack-learning)
-
-Proyecto personal de práctica para nivelar el trabajo fullstack: **React (JSX)** en el cliente y **Node.js/Express + Knex** en el servidor. Evoluciona progresivamente de JavaScript a **TypeScript**. Cubre React con componentes, props, estado y JSX; React Router para navegación; CSS Modules; API REST con Express; acceso a MySQL mediante Knex (query builder); migraciones y frontend organizado con **Atomic Design** (`atoms/`, `molecules/`, `organisms/`, `templates/`).
-
-> **Frontend:** React 19 · Vite · React Router · CSS Modules · Axios
-> **Backend:** Node.js · Express 5 · Knex · MySQL
-
-### 🛒 [Sistema_POS](https://github.com/pulposky/Sistema_POS)
-
-Sistema POS en **Python con Flet** para gestión de ventas, remisiones, clientes y productos. Inventario en tiempo real, registro de ventas y control de caja, y generación de **facturas PDF**. Incluye instalador configurado con **PyInstaller** y se conecta con el **Marketplace Web** compartiendo la misma base de datos `senapdv`.
-
-### 🛍️ [Marketplace](https://github.com/pulposky/Marketplace)
-
-Plataforma de comercio web en **JavaScript** (Node.js + Express + EJS + MySQL): catálogo público con búsqueda y filtros, sistema de apartados con notificaciones, dashboard de estadísticas y registro de visitas. Se integra con el Sistema POS vía base de datos compartida.
-
----
-
-## 🌱 Lo que estoy aprendiendo ahora
-
-- **Frontend:** React 19, Vite, React Router, Axios, CSS Modules
-- **Backend:** Express 5, Knex (query builder), MySQL, JWT, Bcrypt
-- **Migración:** JavaScript → **TypeScript** en frontend (`.tsx`) y backend (`.ts`)
-- **Arquitectura:** Atomic Design (átomos, moléculas, organismos, templates)
-- **Escritorio:** Python + Flet
-
----
-
-## 🧠 Soft skills
-
-- 🤝 **Colaborativo**: Trabajo bien en equipo y me adapto a diferentes dinámicas de trabajo
-- ✅ **Responsable**: Cumplo con los compromisos y plazos establecidos
-- 🤲 **Honesto**: Comunicación clara y transparente en todo momento
-- ⚡ **Aprendizaje rápido**: Capacidad de asimilar nuevas tecnologías y conceptos con agilidad
+- Construcción de sistemas con lógica real de negocio
+- Desarrollo de apps web para ventas, gestión e inventario
+- Backend sólido, APIs gestionables y autenticación segura
+- Soluciones prácticas para pequeñas y medianas empresas
 
 ---
 
