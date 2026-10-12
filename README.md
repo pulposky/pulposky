@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=FFFFFF&background=000000&center=true&vCenter=true&multiline=true&width=800&height=120&lines=%24+whoami;Alejandro,+desarrollador+web+fullstack;%24+cat+stack.txt;React+·+Node.js+·+MySQL+·+Flet;%24+status;Construyendo+proyectos+de+punta+a+punta" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=FFFFFF&background=000000&center=true&vCenter=true&multiline=true&width=800&height=120&lines=%24+whoami;Alejandro,+desarrollador+web+fullstack;%24+cat+stack.txt;React,+Node.js,+MySQL,+Flet;%24+status;Construyendo+proyectos+de+punta+a+punta" alt="typing" />
 
 <br/>
 
