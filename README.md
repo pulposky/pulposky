@@ -1,18 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:36bcf7&height=220&section=header&text=Hola,%20soy%20Alejandro%20🐙&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20Web%20en%20crecimiento%20🚀&descAlignY=60&descAlign=50" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=200&section=header&text=Alejandro&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Desarrollador%20Web&descAlignY=62&descAlign=50" width="100%" alt="header" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&multiline=true&width=800&height=90&lines=Desarrollador+Fullstack;Frontend:+React,+Vite,+TypeScript;Backend:+Node.js,+Express,+MySQL;Escritorio:+Python+y+Flet" alt="typing animado" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=FFFFFF&background=000000&center=true&vCenter=true&multiline=true&width=800&height=120&lines=%24+whoami;Alejandro,+desarrollador+web+fullstack;%24+cat+stack.txt;React+·+Node.js+·+MySQL+·+Flet;%24+status;Construyendo+proyectos+de+punta+a+punta" alt="typing" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=pulposky&label=VISITAS&color=36bcf7&style=for-the-badge" alt="visitas" />
+<img src="https://komarev.com/ghpvc/?username=pulposky&label=VISITAS&color=333333&style=for-the-badge" alt="visitas" />
 
 </div>
 
 <br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=2&section=header" width="100%" alt="line" />
+</div>
 
 ## 🙋 Sobre mí
 
@@ -22,36 +26,42 @@ Mi camino me ha llevado desde **HTML, CSS y JavaScript** hasta **Node.js + MySQL
 
 Me defino como una persona **colaborativa, responsable y honesta**, que disfruta trabajar en equipo y aportar soluciones concretas a los problemas.
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" width="100%" alt="divider" />
-</div>
+---
 
 ## 🛠️ Tecnologías
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nodejs,express,mysql,python,git,github,vscode,excel&theme=dark&perline=7" alt="skills" />
+<img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=white&labelColor=111111" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=white&labelColor=111111" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white&labelColor=111111" alt="JavaScript" />
+<img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=white&labelColor=111111" alt="React" />
+<img src="https://img.shields.io/badge/Vite-111111?style=for-the-badge&logo=vite&logoColor=white&labelColor=111111" alt="Vite" />
+<img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=111111" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express&logoColor=white&labelColor=111111" alt="Express" />
+<img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=white&labelColor=111111" alt="MySQL" />
+<img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white&labelColor=111111" alt="Python" />
+<img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white&labelColor=111111" alt="Git" />
+
+<br/><br/>
+
+<img src="assets/radar.svg" width="460" alt="Radar de habilidades" />
 
 </div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" width="100%" alt="divider" />
-</div>
+---
 
 ## 📊 Estadísticas
 
 <div align="center">
 
-<img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pulposky&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-<img height="180" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulposky&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pulposky&show_icons=true&hide_border=false&include_all_commits=true&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&border_color=333333&border_radius=12" />
 
 </div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" width="100%" alt="divider" />
-</div>
+---
 
-## 🐍 Mi grilla de contribuciones
+## 🐍 Grilla de contribuciones
 
 <div align="center">
 
@@ -62,9 +72,7 @@ Me defino como una persona **colaborativa, responsable y honesta**, que disfruta
 
 </div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" width="100%" alt="divider" />
-</div>
+---
 
 ## 📂 Proyectos destacados
 
@@ -83,9 +91,7 @@ Sistema POS en **Python con Flet** para gestión de ventas, remisiones, clientes
 
 Plataforma de comercio web en **JavaScript** (Node.js + Express + EJS + MySQL): catálogo público con búsqueda y filtros, sistema de apartados con notificaciones, dashboard de estadísticas y registro de visitas. Se integra con el Sistema POS vía base de datos compartida.
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" width="100%" alt="divider" />
-</div>
+---
 
 ## 🌱 Lo que estoy aprendiendo ahora
 
@@ -95,9 +101,7 @@ Plataforma de comercio web en **JavaScript** (Node.js + Express + EJS + MySQL): 
 - **Arquitectura:** Atomic Design (átomos, moléculas, organismos, templates)
 - **Escritorio:** Python + Flet
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" width="100%" alt="divider" />
-</div>
+---
 
 ## 🧠 Soft skills
 
@@ -106,27 +110,27 @@ Plataforma de comercio web en **JavaScript** (Node.js + Express + EJS + MySQL): 
 - 🤲 **Honesto**: Comunicación clara y transparente en todo momento
 - ⚡ **Aprendizaje rápido**: Capacidad de asimilar nuevas tecnologías y conceptos con agilidad
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" width="100%" alt="divider" />
-</div>
+---
 
 ## 📬 Contáctame
 
 <div align="center">
 
 <a href="mailto:alejogarcia0324@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111111" alt="Email" />
 </a>
 <a href="https://github.com/pulposky">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" alt="GitHub" />
 </a>
 
 <br/><br/>
+
+*"El mejor código que puedo escribir hoy es mejor que el que escribí ayer."*
 
 ⭐ Si alguno de mis proyectos te es útil, ¡no dudes en dejar una estrella!
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36bcf7,100:0f2027&height=120&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:434343,100:000000&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
