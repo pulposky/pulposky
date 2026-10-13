@@ -5,12 +5,7 @@
 </picture>
 </div>
 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=600&width=800&height=50&lines=Alejandro+/+Desarrollador+Web+Fullstack&color=E6EDF3&center=true" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=600&width=800&height=50&lines=Alejandro+/+Desarrollador+Web+Fullstack&color=1F2328&center=true" alt="Alejandro / Desarrollador Web Fullstack" />
-</picture>
-</div>
+<h3 align="center">Alejandro / Desarrollador Web Fullstack</h3>
 
 <div align="center">
 <a href="mailto:alejogarcia0324@gmail.com">
@@ -21,12 +16,7 @@
 </a>
 </div>
 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&width=800&height=36&lines=Sobre+m%C3%AD&color=E6EDF3&center=true" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&width=800&height=36&lines=Sobre+m%C3%AD&color=1F2328&center=true" alt="Sobre mí" />
-</picture>
-</div>
+<h3 align="center">Sobre mí</h3>
 
 Soy **Alejandro**, desarrollador web de **Villavicencio, Colombia**, con experiencia construyendo proyectos fullstack con el ecosistema **Node.js**. Me apasiona aprender rápido y mejorar en cada proyecto.
 
@@ -34,12 +24,7 @@ Hoy me enfoco en dos caminos: consolidarme como desarrollador **fullstack** con 
 
 Trabajo bien en equipo, cumplo con mis compromisos y prefiero la comunicación clara.
 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&width=800&height=36&lines=Tecnolog%C3%ADas&color=E6EDF3&center=true" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&width=800&height=36&lines=Tecnolog%C3%ADas&color=1F2328&center=true" alt="Tecnologías" />
-</picture>
-</div>
+<h3 align="center">Tecnologías</h3>
 
 <div align="center">
 
@@ -65,12 +50,7 @@ Trabajo bien en equipo, cumplo con mis compromisos y prefiero la comunicación c
 
 </div>
 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&width=800&height=36&lines=Estad%C3%ADsticas&color=E6EDF3&center=true" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&width=800&height=36&lines=Estad%C3%ADsticas&color=1F2328&center=true" alt="Estadísticas" />
-</picture>
-</div>
+<h3 align="center">Estadísticas</h3>
 
 <div align="center">
 <picture>
@@ -79,12 +59,7 @@ Trabajo bien en equipo, cumplo con mis compromisos y prefiero la comunicación c
 </picture>
 </div>
 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&width=800&height=36&lines=Contribuciones&color=E6EDF3&center=true" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&width=800&height=36&lines=Contribuciones&color=1F2328&center=true" alt="Contribuciones" />
-</picture>
-</div>
+<h3 align="center">Contribuciones</h3>
 
 <div align="center">
 <picture>
@@ -93,12 +68,7 @@ Trabajo bien en equipo, cumplo con mis compromisos y prefiero la comunicación c
 </picture>
 </div>
 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&width=800&height=36&lines=Proyectos&color=E6EDF3&center=true" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&width=800&height=36&lines=Proyectos&color=1F2328&center=true" alt="Proyectos" />
-</picture>
-</div>
+<h3 align="center">Proyectos</h3>
 
 <div align="center">
 <picture>
@@ -127,12 +97,7 @@ Sistema POS en **Python con Flet** para ventas, remisiones, clientes y productos
 
 Plataforma de comercio web con **Node.js, Express, EJS y MySQL**: catálogo con búsqueda y filtros, sistema de apartados con notificaciones, dashboard de estadísticas y registro de visitas. Se integra con el Sistema POS mediante una base de datos compartida.
 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&width=800&height=36&lines=Aprendiendo+ahora&color=E6EDF3&center=true" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&width=800&height=36&lines=Aprendiendo+ahora&color=1F2328&center=true" alt="Aprendiendo ahora" />
-</picture>
-</div>
+<h3 align="center">Aprendiendo ahora</h3>
 
 - **Frontend:** React 19, Vite, React Router, Axios, CSS Modules
 - **Backend:** Express 5, Knex, MySQL, JWT, Bcrypt
@@ -140,24 +105,14 @@ Plataforma de comercio web con **Node.js, Express, EJS y MySQL**: catálogo con 
 - **Arquitectura:** Atomic Design
 - **Escritorio:** Python + Flet
 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&width=800&height=36&lines=Soft+skills&color=E6EDF3&center=true" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&width=800&height=36&lines=Soft+skills&color=1F2328&center=true" alt="Soft skills" />
-</picture>
-</div>
+<h3 align="center">Soft skills</h3>
 
 - 🤝 **Colaborativo:** me adapto a distintas dinámicas de equipo
 - ✅ **Responsable:** cumplo compromisos y plazos
 - 🤲 **Honesto:** comunicación clara y transparente
 - ⚡ **Aprendizaje rápido:** asimilo tecnologías nuevas con agilidad
 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&width=800&height=36&lines=Contacto&color=E6EDF3&center=true" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&width=800&height=36&lines=Contacto&color=1F2328&center=true" alt="Contacto" />
-</picture>
-</div>
+<h3 align="center">Contacto</h3>
 
 <div align="center">
 
