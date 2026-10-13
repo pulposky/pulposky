@@ -71,13 +71,6 @@ Trabajo bien en equipo, cumplo con mis compromisos y prefiero la comunicación c
 <h3 align="center">Proyectos</h3>
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/projects-dark.gif" />
-  <img src="assets/projects-light.gif" alt="Proyectos" width="100%" />
-</picture>
-</div>
-
-<div align="center">
 
 <a href="https://github.com/pulposky/fullstack-learning"><img src="https://img.shields.io/badge/fullstack--learning-57606a?style=for-the-badge&logo=github&logoColor=white&labelColor=57606a" alt="fullstack-learning" /></a>
 <a href="https://github.com/pulposky/Sistema_POS"><img src="https://img.shields.io/badge/Sistema__POS-57606a?style=for-the-badge&logo=github&logoColor=white&labelColor=57606a" alt="Sistema_POS" /></a>
