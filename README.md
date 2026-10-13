@@ -23,8 +23,8 @@
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&width=800&height=36&lines=%24+cat+sobre-mi.md&color=E6EDF3&center=true" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&width=800&height=36&lines=%24+cat+sobre-mi.md&color=1F2328&center=true" alt="%24 cat sobre-mi.md" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&width=800&height=36&lines=Sobre+m%C3%AD&color=E6EDF3&center=true" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&width=800&height=36&lines=Sobre+m%C3%AD&color=1F2328&center=true" alt="Sobre mí" />
 </picture>
 </div>
 
@@ -36,8 +36,8 @@ Trabajo bien en equipo, cumplo con mis compromisos y prefiero la comunicación c
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&width=800&height=36&lines=%24+ls+tecnologias/&color=E6EDF3&center=true" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&width=800&height=36&lines=%24+ls+tecnologias/&color=1F2328&center=true" alt="%24 ls tecnologias/" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&width=800&height=36&lines=Tecnolog%C3%ADas&color=E6EDF3&center=true" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&width=800&height=36&lines=Tecnolog%C3%ADas&color=1F2328&center=true" alt="Tecnologías" />
 </picture>
 </div>
 
@@ -67,8 +67,8 @@ Trabajo bien en equipo, cumplo con mis compromisos y prefiero la comunicación c
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&width=800&height=36&lines=%24+stats+--github&color=E6EDF3&center=true" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&width=800&height=36&lines=%24+stats+--github&color=1F2328&center=true" alt="%24 stats --github" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&width=800&height=36&lines=Estad%C3%ADsticas&color=E6EDF3&center=true" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&width=800&height=36&lines=Estad%C3%ADsticas&color=1F2328&center=true" alt="Estadísticas" />
 </picture>
 </div>
 
@@ -81,8 +81,8 @@ Trabajo bien en equipo, cumplo con mis compromisos y prefiero la comunicación c
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&width=800&height=36&lines=%24+git+log+--graph&color=E6EDF3&center=true" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&width=800&height=36&lines=%24+git+log+--graph&color=1F2328&center=true" alt="%24 git log --graph" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&width=800&height=36&lines=Contribuciones&color=E6EDF3&center=true" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&width=800&height=36&lines=Contribuciones&color=1F2328&center=true" alt="Contribuciones" />
 </picture>
 </div>
 
@@ -95,8 +95,8 @@ Trabajo bien en equipo, cumplo con mis compromisos y prefiero la comunicación c
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&width=800&height=36&lines=%24+ls+proyectos/+--detalle&color=E6EDF3&center=true" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&width=800&height=36&lines=%24+ls+proyectos/+--detalle&color=1F2328&center=true" alt="%24 ls proyectos/ --detalle" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&width=800&height=36&lines=Proyectos&color=E6EDF3&center=true" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&width=800&height=36&lines=Proyectos&color=1F2328&center=true" alt="Proyectos" />
 </picture>
 </div>
 
@@ -105,6 +105,14 @@ Trabajo bien en equipo, cumplo con mis compromisos y prefiero la comunicación c
   <source media="(prefers-color-scheme: dark)" srcset="assets/projects-dark.gif" />
   <img src="assets/projects-light.gif" alt="Proyectos" width="100%" />
 </picture>
+</div>
+
+<div align="center">
+
+<a href="https://github.com/pulposky/fullstack-learning"><img src="https://img.shields.io/badge/fullstack--learning-57606a?style=for-the-badge&logo=github&logoColor=white&labelColor=57606a" alt="fullstack-learning" /></a>
+<a href="https://github.com/pulposky/Sistema_POS"><img src="https://img.shields.io/badge/Sistema__POS-57606a?style=for-the-badge&logo=github&logoColor=white&labelColor=57606a" alt="Sistema_POS" /></a>
+<a href="https://github.com/pulposky/Marketplace"><img src="https://img.shields.io/badge/Marketplace-57606a?style=for-the-badge&logo=github&logoColor=white&labelColor=57606a" alt="Marketplace" /></a>
+
 </div>
 
 ### ⚙️ [fullstack-learning](https://github.com/pulposky/fullstack-learning)
@@ -121,8 +129,8 @@ Plataforma de comercio web con **Node.js, Express, EJS y MySQL**: catálogo con 
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&width=800&height=36&lines=%24+cat+aprendiendo.txt&color=E6EDF3&center=true" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&width=800&height=36&lines=%24+cat+aprendiendo.txt&color=1F2328&center=true" alt="%24 cat aprendiendo.txt" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&width=800&height=36&lines=Aprendiendo+ahora&color=E6EDF3&center=true" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&width=800&height=36&lines=Aprendiendo+ahora&color=1F2328&center=true" alt="Aprendiendo ahora" />
 </picture>
 </div>
 
@@ -134,8 +142,8 @@ Plataforma de comercio web con **Node.js, Express, EJS y MySQL**: catálogo con 
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&width=800&height=36&lines=%24+cat+soft-skills.txt&color=E6EDF3&center=true" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&width=800&height=36&lines=%24+cat+soft-skills.txt&color=1F2328&center=true" alt="%24 cat soft-skills.txt" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&width=800&height=36&lines=Soft+skills&color=E6EDF3&center=true" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&width=800&height=36&lines=Soft+skills&color=1F2328&center=true" alt="Soft skills" />
 </picture>
 </div>
 
@@ -146,8 +154,8 @@ Plataforma de comercio web con **Node.js, Express, EJS y MySQL**: catálogo con 
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&width=800&height=36&lines=%24+./contacto.sh&color=E6EDF3&center=true" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&width=800&height=36&lines=%24+./contacto.sh&color=1F2328&center=true" alt="%24 ./contacto.sh" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&width=800&height=36&lines=Contacto&color=E6EDF3&center=true" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&width=800&height=36&lines=Contacto&color=1F2328&center=true" alt="Contacto" />
 </picture>
 </div>
 
