@@ -1,26 +1,31 @@
 <div align="center">
-
-<img src="assets/profile-card.gif" width="100%" alt="profile.sh --live" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=FFFFFF&background=000000&center=true&vCenter=true&width=800&height=50&lines=Alejandro+/+Desarrollador+Web+Fullstack" alt="typing" />
-
-<br/>
-
-<a href="mailto:alejogarcia0324@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111111" alt="Email" />
-</a>
-<a href="https://github.com/pulposky">
-  <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" alt="GitHub" />
-</a>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-card-dark.gif" />
+  <img src="assets/profile-card-light.gif" alt="profile.sh --live" width="100%" />
+</picture>
 </div>
 
-<br/>
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=600&width=800&height=50&lines=Alejandro+/+Desarrollador+Web+Fullstack&color=E6EDF3&center=true" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=600&width=800&height=50&lines=Alejandro+/+Desarrollador+Web+Fullstack&color=1F2328&center=true" alt="Alejandro / Desarrollador Web Fullstack" />
+</picture>
+</div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&color=FFFFFF&background=000000&width=800&height=36&lines=%24+cat+sobre-mi.md" alt="sobre mi" />
+<a href="mailto:alejogarcia0324@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-57606a?style=for-the-badge&logo=gmail&logoColor=white&labelColor=57606a" alt="Email" />
+</a>
+<a href="https://github.com/pulposky">
+  <img src="https://img.shields.io/badge/GITHUB-57606a?style=for-the-badge&logo=github&logoColor=white&labelColor=57606a" alt="GitHub" />
+</a>
+</div>
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&width=800&height=36&lines=%24+cat+sobre-mi.md&color=E6EDF3&center=true" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&width=800&height=36&lines=%24+cat+sobre-mi.md&color=1F2328&center=true" alt="%24 cat sobre-mi.md" />
+</picture>
 </div>
 
 Soy **Alejandro**, desarrollador web de **Villavicencio, Colombia**, con experiencia construyendo proyectos fullstack con el ecosistema **Node.js**. Me apasiona aprender rápido y mejorar en cada proyecto.
@@ -30,38 +35,55 @@ Hoy me enfoco en dos caminos: consolidarme como desarrollador **fullstack** con 
 Trabajo bien en equipo, cumplo con mis compromisos y prefiero la comunicación clara.
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&color=FFFFFF&background=000000&width=800&height=36&lines=%24+ls+tecnologias/" alt="tecnologias" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&width=800&height=36&lines=%24+ls+tecnologias/&color=E6EDF3&center=true" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&width=800&height=36&lines=%24+ls+tecnologias/&color=1F2328&center=true" alt="%24 ls tecnologias/" />
+</picture>
 </div>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=white&labelColor=111111" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=white&labelColor=111111" alt="CSS3" />
-<img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white&labelColor=111111" alt="JavaScript" />
-<img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=white&labelColor=111111" alt="React" />
-<img src="https://img.shields.io/badge/Vite-111111?style=for-the-badge&logo=vite&logoColor=white&labelColor=111111" alt="Vite" />
-<img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=111111" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express&logoColor=white&labelColor=111111" alt="Express" />
-<img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=white&labelColor=111111" alt="MySQL" />
-<img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white&labelColor=111111" alt="Python" />
-<img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white&labelColor=111111" alt="Git" />
+<img src="https://img.shields.io/badge/HTML5-57606a?style=for-the-badge&logo=html5&logoColor=white&labelColor=57606a" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-57606a?style=for-the-badge&logo=css3&logoColor=white&labelColor=57606a" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-57606a?style=for-the-badge&logo=javascript&logoColor=white&labelColor=57606a" alt="JavaScript" />
+<img src="https://img.shields.io/badge/React-57606a?style=for-the-badge&logo=react&logoColor=white&labelColor=57606a" alt="React" />
+<img src="https://img.shields.io/badge/Vite-57606a?style=for-the-badge&logo=vite&logoColor=white&labelColor=57606a" alt="Vite" />
+<img src="https://img.shields.io/badge/Node.js-57606a?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=57606a" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express-57606a?style=for-the-badge&logo=express&logoColor=white&labelColor=57606a" alt="Express" />
+<img src="https://img.shields.io/badge/MySQL-57606a?style=for-the-badge&logo=mysql&logoColor=white&labelColor=57606a" alt="MySQL" />
+<img src="https://img.shields.io/badge/Python-57606a?style=for-the-badge&logo=python&logoColor=white&labelColor=57606a" alt="Python" />
+<img src="https://img.shields.io/badge/Git-57606a?style=for-the-badge&logo=git&logoColor=white&labelColor=57606a" alt="Git" />
 
 <br/><br/>
 
-<img src="assets/radar.svg" width="460" alt="Radar de habilidades" />
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg" />
+  <img src="assets/radar-light.svg" alt="Radar de habilidades" width="460" />
+</picture>
+</div>
 
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&color=FFFFFF&background=000000&width=800&height=36&lines=%24+stats+--github" alt="stats" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&width=800&height=36&lines=%24+stats+--github&color=E6EDF3&center=true" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&width=800&height=36&lines=%24+stats+--github&color=1F2328&center=true" alt="%24 stats --github" />
+</picture>
 </div>
 
 <div align="center">
-<img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pulposky&show_icons=true&hide_border=false&include_all_commits=true&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&border_color=333333&border_radius=12" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=pulposky&show_icons=true&hide_border=true&include_all_commits=true&border_radius=12&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pulposky&show_icons=true&hide_border=true&include_all_commits=true&border_radius=12&theme=default" alt="GitHub Stats" height="180" />
+</picture>
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&color=FFFFFF&background=000000&width=800&height=36&lines=%24+git+log+--graph" alt="git log" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&width=800&height=36&lines=%24+git+log+--graph&color=E6EDF3&center=true" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&width=800&height=36&lines=%24+git+log+--graph&color=1F2328&center=true" alt="%24 git log --graph" />
+</picture>
 </div>
 
 <div align="center">
@@ -72,11 +94,17 @@ Trabajo bien en equipo, cumplo con mis compromisos y prefiero la comunicación c
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&color=FFFFFF&background=000000&width=800&height=36&lines=%24+ls+proyectos/+--detalle" alt="proyectos" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&width=800&height=36&lines=%24+ls+proyectos/+--detalle&color=E6EDF3&center=true" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&width=800&height=36&lines=%24+ls+proyectos/+--detalle&color=1F2328&center=true" alt="%24 ls proyectos/ --detalle" />
+</picture>
 </div>
 
 <div align="center">
-<img src="assets/projects.gif" width="100%" alt="Proyectos" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/projects-dark.gif" />
+  <img src="assets/projects-light.gif" alt="Proyectos" width="100%" />
+</picture>
 </div>
 
 ### ⚙️ [fullstack-learning](https://github.com/pulposky/fullstack-learning)
@@ -92,7 +120,10 @@ Sistema POS en **Python con Flet** para ventas, remisiones, clientes y productos
 Plataforma de comercio web con **Node.js, Express, EJS y MySQL**: catálogo con búsqueda y filtros, sistema de apartados con notificaciones, dashboard de estadísticas y registro de visitas. Se integra con el Sistema POS mediante una base de datos compartida.
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&color=FFFFFF&background=000000&width=800&height=36&lines=%24+cat+aprendiendo.txt" alt="aprendiendo" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&width=800&height=36&lines=%24+cat+aprendiendo.txt&color=E6EDF3&center=true" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&width=800&height=36&lines=%24+cat+aprendiendo.txt&color=1F2328&center=true" alt="%24 cat aprendiendo.txt" />
+</picture>
 </div>
 
 - **Frontend:** React 19, Vite, React Router, Axios, CSS Modules
@@ -102,7 +133,10 @@ Plataforma de comercio web con **Node.js, Express, EJS y MySQL**: catálogo con 
 - **Escritorio:** Python + Flet
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&color=FFFFFF&background=000000&width=800&height=36&lines=%24+cat+soft-skills.txt" alt="soft skills" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&width=800&height=36&lines=%24+cat+soft-skills.txt&color=E6EDF3&center=true" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&width=800&height=36&lines=%24+cat+soft-skills.txt&color=1F2328&center=true" alt="%24 cat soft-skills.txt" />
+</picture>
 </div>
 
 - 🤝 **Colaborativo:** me adapto a distintas dinámicas de equipo
@@ -111,21 +145,24 @@ Plataforma de comercio web con **Node.js, Express, EJS y MySQL**: catálogo con 
 - ⚡ **Aprendizaje rápido:** asimilo tecnologías nuevas con agilidad
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&color=FFFFFF&background=000000&width=800&height=36&lines=%24+./contacto.sh" alt="contacto" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&width=800&height=36&lines=%24+./contacto.sh&color=E6EDF3&center=true" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&width=800&height=36&lines=%24+./contacto.sh&color=1F2328&center=true" alt="%24 ./contacto.sh" />
+</picture>
 </div>
 
 <div align="center">
 
 Escríbeme si quieres hablar de un proyecto o colaboración:
 
+<div align="center">
 <a href="mailto:alejogarcia0324@gmail.com">
-  <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111111" alt="Email" />
+  <img src="https://img.shields.io/badge/EMAIL-57606a?style=for-the-badge&logo=gmail&logoColor=white&labelColor=57606a" alt="Email" />
 </a>
 <a href="https://github.com/pulposky">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GITHUB-57606a?style=for-the-badge&logo=github&logoColor=white&labelColor=57606a" alt="GitHub" />
 </a>
-
-<br/><br/>
+</div>
 
 ⭐ Si alguno de mis proyectos te es útil, deja una estrella.
 
