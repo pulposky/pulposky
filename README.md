@@ -17,8 +17,6 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=pulposky&label=PROFILE+VIEWS&color=333333&style=for-the-badge" alt="visitas" />
-
 </div>
 
 <br/>
