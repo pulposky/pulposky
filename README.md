@@ -112,20 +112,21 @@ Plataforma de comercio web con **Node.js, Express, EJS y MySQL**: catálogo con 
 - 🤲 **Honesto:** comunicación clara y transparente
 - ⚡ **Aprendizaje rápido:** asimilo tecnologías nuevas con agilidad
 
-<h3 align="center">Contacto</h3>
+<br/>
+
+---
+
 
 <div align="center">
 
 Escríbeme si quieres hablar de un proyecto o colaboración:
 
-<div align="center">
 <a href="mailto:alejogarcia0324@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-57606a?style=for-the-badge&logo=gmail&logoColor=white&labelColor=57606a" alt="Email" />
 </a>
 <a href="https://github.com/pulposky">
   <img src="https://img.shields.io/badge/GITHUB-57606a?style=for-the-badge&logo=github&logoColor=white&labelColor=57606a" alt="GitHub" />
 </a>
-</div>
 
 ⭐ Si alguno de mis proyectos te es útil, deja una estrella.
 
