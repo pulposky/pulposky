@@ -8,8 +8,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=pulposky&label=VISITAS&color=333333&style=for-the-badge" alt="visitas" />
-
 </div>
 
 <br/>
