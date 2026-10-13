@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=FFFFFF&background=000000&center=true&vCenter=true&width=800&height=60&lines=Alejandro+/+Desarrollador+Web+Fullstack;Architecture+of+Software+/+React+%2B+Node.js" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=FFFFFF&background=000000&center=true&vCenter=true&width=800&height=50&lines=Alejandro+/+Desarrollador+Web+Fullstack" alt="typing" />
 
 <br/>
 
@@ -15,27 +15,23 @@
   <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" alt="GitHub" />
 </a>
 
-<br/><br/>
-
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=2&section=header" width="100%" alt="line" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&color=FFFFFF&background=000000&width=800&height=36&lines=%24+cat+sobre-mi.md" alt="sobre mi" />
 </div>
 
-## 🙋 Sobre mí
+Soy **Alejandro**, desarrollador web de **Villavicencio, Colombia**, con experiencia construyendo proyectos fullstack con el ecosistema **Node.js**. Me apasiona aprender rápido y mejorar en cada proyecto.
 
-Soy **Alejandro**, desarrollador web de **Villavicencio, Colombia**, con experiencia construyendo proyectos fullstack con el ecosistema **Node.js**. Me apasiona aprender cosas nuevas rápidamente y siempre estoy buscando mejorar mis habilidades.
+Hoy me enfoco en dos caminos: consolidarme como desarrollador **fullstack** con **React + Vite** en el frontend y **Express 5 + Knex** en el backend, y explorar aplicaciones de escritorio con **Flet (Python)**.
 
-Mi camino me ha llevado desde **HTML, CSS y JavaScript** hasta **Node.js + MySQL**, y hoy sigo expandiéndome en dos direcciones: consolidarme como desarrollador **fullstack** con **React + Vite** en el frontend y **Express 5 + Knex** en el backend, y explorar aplicaciones de escritorio con **Flet (Python)**.
+Trabajo bien en equipo, cumplo con mis compromisos y prefiero la comunicación clara.
 
-Me defino como una persona **colaborativa, responsable y honesta**, que disfruta trabajar en equipo y aportar soluciones concretas a los problemas.
-
----
-
-## 🛠️ Tecnologías
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&color=FFFFFF&background=000000&width=800&height=36&lines=%24+ls+tecnologias/" alt="tecnologias" />
+</div>
 
 <div align="center">
 
@@ -56,72 +52,71 @@ Me defino como una persona **colaborativa, responsable y honesta**, que disfruta
 
 </div>
 
----
-
-## 📊 Estadísticas
-
 <div align="center">
-
-<img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pulposky&show_icons=true&hide_border=false&include_all_commits=true&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&border_color=333333&border_radius=12" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&color=FFFFFF&background=000000&width=800&height=36&lines=%24+stats+--github" alt="stats" />
 </div>
 
----
-
-## 🐍 Grilla de contribuciones
+<div align="center">
+<img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pulposky&show_icons=true&hide_border=false&include_all_commits=true&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&border_color=333333&border_radius=12" />
+</div>
 
 <div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&color=FFFFFF&background=000000&width=800&height=36&lines=%24+git+log+--graph" alt="git log" />
+</div>
 
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg" />
   <img alt="snake" src="dist/github-contribution-grid-snake.svg" />
 </picture>
-
 </div>
 
----
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&color=FFFFFF&background=000000&width=800&height=36&lines=%24+ls+proyectos/+--detalle" alt="proyectos" />
+</div>
 
-## 📂 Proyectos destacados
+<div align="center">
+<img src="assets/projects.gif" width="100%" alt="Proyectos" />
+</div>
 
 ### ⚙️ [fullstack-learning](https://github.com/pulposky/fullstack-learning)
 
-Proyecto personal de práctica para nivelar el trabajo fullstack: **React (JSX)** en el cliente y **Node.js/Express + Knex** en el servidor. Evoluciona progresivamente de JavaScript a **TypeScript**. Cubre React con componentes, props, estado y JSX; React Router para navegación; CSS Modules; API REST con Express; acceso a MySQL mediante Knex (query builder); migraciones y frontend organizado con **Atomic Design** (`atoms/`, `molecules/`, `organisms/`, `templates/`).
-
-> **Frontend:** React 19 · Vite · React Router · CSS Modules · Axios
-> **Backend:** Node.js · Express 5 · Knex · MySQL
+Proyecto de práctica para nivelar el trabajo fullstack: **React (JSX)** en el cliente y **Node.js/Express + Knex** en el servidor, migrando progresivamente de JavaScript a **TypeScript**. Incluye React Router, CSS Modules, API REST, acceso a MySQL con Knex y una estructura con **Atomic Design**.
 
 ### 🛒 [Sistema_POS](https://github.com/pulposky/Sistema_POS)
 
-Sistema POS en **Python con Flet** para gestión de ventas, remisiones, clientes y productos. Inventario en tiempo real, registro de ventas y control de caja, y generación de **facturas PDF**. Incluye instalador configurado con **PyInstaller** y se conecta con el **Marketplace Web** compartiendo la misma base de datos `senapdv`.
+Sistema POS en **Python con Flet** para ventas, remisiones, clientes y productos. Tiene inventario, registro de ventas, control de caja y generación de **facturas PDF**. Incluye instalador con **PyInstaller** y comparte la base de datos `senapdv` con el Marketplace.
 
 ### 🛍️ [Marketplace](https://github.com/pulposky/Marketplace)
 
-Plataforma de comercio web en **JavaScript** (Node.js + Express + EJS + MySQL): catálogo público con búsqueda y filtros, sistema de apartados con notificaciones, dashboard de estadísticas y registro de visitas. Se integra con el Sistema POS vía base de datos compartida.
-
----
-
-## 🌱 Lo que estoy aprendiendo ahora
-
-- **Frontend:** React 19, Vite, React Router, Axios, CSS Modules
-- **Backend:** Express 5, Knex (query builder), MySQL, JWT, Bcrypt
-- **Migración:** JavaScript → **TypeScript** en frontend (`.tsx`) y backend (`.ts`)
-- **Arquitectura:** Atomic Design (átomos, moléculas, organismos, templates)
-- **Escritorio:** Python + Flet
-
----
-
-## 🧠 Soft skills
-
-- 🤝 **Colaborativo**: Trabajo bien en equipo y me adapto a diferentes dinámicas de trabajo
-- ✅ **Responsable**: Cumplo con los compromisos y plazos establecidos
-- 🤲 **Honesto**: Comunicación clara y transparente en todo momento
-- ⚡ **Aprendizaje rápido**: Capacidad de asimilar nuevas tecnologías y conceptos con agilidad
-
----
-
-## 📬 Contáctame
+Plataforma de comercio web con **Node.js, Express, EJS y MySQL**: catálogo con búsqueda y filtros, sistema de apartados con notificaciones, dashboard de estadísticas y registro de visitas. Se integra con el Sistema POS mediante una base de datos compartida.
 
 <div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&color=FFFFFF&background=000000&width=800&height=36&lines=%24+cat+aprendiendo.txt" alt="aprendiendo" />
+</div>
+
+- **Frontend:** React 19, Vite, React Router, Axios, CSS Modules
+- **Backend:** Express 5, Knex, MySQL, JWT, Bcrypt
+- **Migración:** JavaScript → **TypeScript** (`.tsx`, `.ts`)
+- **Arquitectura:** Atomic Design
+- **Escritorio:** Python + Flet
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&color=FFFFFF&background=000000&width=800&height=36&lines=%24+cat+soft-skills.txt" alt="soft skills" />
+</div>
+
+- 🤝 **Colaborativo:** me adapto a distintas dinámicas de equipo
+- ✅ **Responsable:** cumplo compromisos y plazos
+- 🤲 **Honesto:** comunicación clara y transparente
+- ⚡ **Aprendizaje rápido:** asimilo tecnologías nuevas con agilidad
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&color=FFFFFF&background=000000&width=800&height=36&lines=%24+./contacto.sh" alt="contacto" />
+</div>
+
+<div align="center">
+
+Escríbeme si quieres hablar de un proyecto o colaboración:
 
 <a href="mailto:alejogarcia0324@gmail.com">
   <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111111" alt="Email" />
@@ -132,8 +127,6 @@ Plataforma de comercio web en **JavaScript** (Node.js + Express + EJS + MySQL): 
 
 <br/><br/>
 
-*"El mejor código que puedo escribir hoy es mejor que el que escribí ayer."*
-
-⭐ Si alguno de mis proyectos te es útil, ¡no dudes en dejar una estrella!
+⭐ Si alguno de mis proyectos te es útil, deja una estrella.
 
 </div>
