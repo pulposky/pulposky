@@ -1,12 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=200&section=header&text=Alejandro&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Desarrollador%20Web&descAlignY=62&descAlign=50" width="100%" alt="header" />
+<img src="assets/profile-card.gif" width="100%" alt="profile.sh --live" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=FFFFFF&background=000000&center=true&vCenter=true&multiline=true&width=800&height=120&lines=%24+whoami;Alejandro,+desarrollador+web+fullstack;%24+cat+stack.txt;React,+Node.js,+MySQL,+Flet;%24+status;Construyendo+proyectos+de+punta+a+punta" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=FFFFFF&background=000000&center=true&vCenter=true&width=800&height=60&lines=Alejandro+/+Desarrollador+Web+Fullstack;Architecture+of+Software+/+React+%2B+Node.js" alt="typing" />
 
 <br/>
+
+<a href="mailto:alejogarcia0324@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111111" alt="Email" />
+</a>
+<a href="https://github.com/pulposky">
+  <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" alt="GitHub" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=pulposky&label=PROFILE+VIEWS&color=333333&style=for-the-badge" alt="visitas" />
 
 </div>
 
@@ -126,9 +137,5 @@ Plataforma de comercio web en **JavaScript** (Node.js + Express + EJS + MySQL): 
 *"El mejor código que puedo escribir hoy es mejor que el que escribí ayer."*
 
 ⭐ Si alguno de mis proyectos te es útil, ¡no dudes en dejar una estrella!
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:434343,100:000000&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
