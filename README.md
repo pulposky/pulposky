@@ -74,7 +74,7 @@ Trabajo bien en equipo, cumplo con mis compromisos y prefiero la comunicación c
 
 <a href="https://github.com/pulposky/fullstack-learning"><img src="https://img.shields.io/badge/fullstack--learning-57606a?style=for-the-badge&logo=github&logoColor=white&labelColor=57606a" alt="fullstack-learning" /></a>
 <a href="https://github.com/pulposky/Sistema_POS"><img src="https://img.shields.io/badge/Sistema__POS-57606a?style=for-the-badge&logo=github&logoColor=white&labelColor=57606a" alt="Sistema_POS" /></a>
-<a href="https://github.com/pulposky/Marketplace"><img src="https://img.shields.io/badge/Marketplace-57606a?style=for-the-badge&logo=github&logoColor=white&labelColor=57606a" alt="Marketplace" /></a>
+<a href="https://github.com/pulposky/Marketplace-demo"><img src="https://img.shields.io/badge/Marketplace-57606a?style=for-the-badge&logo=github&logoColor=white&labelColor=57606a" alt="Marketplace" /></a>
 
 </div>
 
@@ -86,7 +86,7 @@ Proyecto de práctica para nivelar el trabajo fullstack: **React (JSX)** en el c
 
 Sistema POS en **Python con Flet** para ventas, remisiones, clientes y productos. Tiene inventario, registro de ventas, control de caja y generación de **facturas PDF**. Incluye instalador con **PyInstaller** y comparte la base de datos `senapdv` con el Marketplace.
 
-### 🛍️ [Marketplace](https://github.com/pulposky/Marketplace)
+### 🛍️ [Marketplace](https://github.com/pulposky/Marketplace-demo)
 
 Plataforma de comercio web con **Node.js, Express, EJS y MySQL**: catálogo con búsqueda y filtros, sistema de apartados con notificaciones, dashboard de estadísticas y registro de visitas. Se integra con el Sistema POS mediante una base de datos compartida.
 
